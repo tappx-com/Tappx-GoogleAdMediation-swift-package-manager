@@ -1,0 +1,4 @@
+
+module TappxGoogleAdManager {
+    header "TappxGoogleAdManager.h"
+}
