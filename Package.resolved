@@ -1,5 +1,5 @@
 {
-  "originHash" : "3c24c972c6dd246951577dbf661388f7ee21fb89a087c62e829abca1d34c0321",
+  "originHash" : "5a94e7a939f1be2e44921ea1e4595a3eb0597f381f1bf47dd77fdf8f8c3ff065",
   "pins" : [
     {
       "identity" : "swift-package-manager-google-mobile-ads",
@@ -24,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/tappx-com/TappxSDK-swift-package-manager.git",
       "state" : {
-        "revision" : "bb7acb983de23859e8ca076ee56c62768e0d2ea4",
-        "version" : "4.2.15"
+        "revision" : "e8aaf2e225335ac1b2e53d32a69d3494b870b21f",
+        "version" : "4.2.16"
       }
     }
   ],
